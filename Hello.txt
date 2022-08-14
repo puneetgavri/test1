@@ -3,3 +3,5 @@ Hi from branch 1
 yes
 no
 new line added
+ok
+how are you
